@@ -4,7 +4,7 @@
 
 }
 header{
-    background-color: var(--cor-fundo-header)
+    background-color: var(--cor-fundo-header);
     color:var (var(--cor-texto);
     padding: 20px;
 }
@@ -13,5 +13,4 @@ header nav a{
 color:var (--cor-texto);
 margin-right: 20px;
 text-decoration: none;
-
 }
