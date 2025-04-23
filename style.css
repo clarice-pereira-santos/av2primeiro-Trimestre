@@ -10,7 +10,7 @@ header{
 }
 
 header nav a{
-color:var (--cor-texto);
+color: var(--cor-texto);
 margin-right: 20px;
 text-decoration: none;
 }
